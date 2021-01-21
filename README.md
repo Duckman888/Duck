@@ -1,0 +1,2 @@
+# Duck
+my first repository
